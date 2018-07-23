@@ -1,3 +1,5 @@
 node_modules/
 desktop.ini
 server.log
+views/desktop.ini
+public/desktop.ini
